@@ -47,7 +47,7 @@ Second my brother in law went to RMIT and recomends it highly</p>
 the be able to tailor my electives to dive deepr in that sector. Ultimatly I wish to gain employment into a sector 
 I have a strong interest in, that I enjoy and that I am qualified in.</p>
 <h1>Ideal Job</h1>
-<img src="C:\Users\Jason\Documents\IIT\assessment1\images\Capture.jpeg" alt="Ideal job add" width="700" height="800" />
+<img src="https://github.com/Jason-Halse/Assessment1/blob/main/assessment1/images/Capture.jpeg?raw=true" alt="Ideal job add" width="700" height="800" />
 
  
 <p><a href="https://www.seek.com.au/job/51140447?type=standard#searchRequestToken=e091aaa6-c74b-4b8f-a4d0-5914c2409599"><h3>Network Security Engineer</a></p>
