@@ -11,7 +11,7 @@
 </div>
 
 <h1>Jason Halse</h1>
-<img src="assessment1/images/profilepicture.jpg  alt="profile picture" width="200" height="211" />
+<img src="https://github.com/Jason-Halse/Assessment1/blob/main/assessment1/images/profilepicture.jpg?raw=true  alt="profile picture" width="200" height="211" />
 <h2>Details</h2>
 
 <p><strong>D.O.B:</strong> 05/10/1985</p>
