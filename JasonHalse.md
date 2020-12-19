@@ -5,7 +5,7 @@
 <div class="topnav">
 <h3><a class="active" href="C:\Users\Jason\Documents\GitHub\Assessment1\assessment1\Assessment1.html">Home</a>
   <a href="C:\Users\Jason\Documents\GitHub\Assessment1\assessment1\interestinit.html">Interest In I.T</a>
-  <a href="C:\Users\Jason\Documents\GitHub\Assessment1\assessment1\idealjob.html">Ideal Job</a>
+  <a href="https://github.com/Jason-Halse/Assessment1/blob/main/assessment1/idealjob.html">Ideal Job</a>
   <a href="C:\Users\Jason\Documents\GitHub\Assessment1\assessment1\learningprofile.html">Learning Profile</a>
   <a href="C:\Users\Jason\Documents\GitHub\Assessment1\assessment1\projectidea.html">Project Idea</a></h3>
 </div>
